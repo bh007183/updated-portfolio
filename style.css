@@ -96,7 +96,13 @@ a:hover{
 .image {
     max-height: 10px;
 }
-
+.collaboratorsBody{
+    background-image: url(assets//trees.jpg);
+    background-size: 100vw;
+}
+.containerc {
+    background-color:white;
+}
 
 /* background pattern http://www.heropatterns.com/ */
 body {
