@@ -93,7 +93,9 @@ a:hover{
     background-size: 100vw;
     
 }
-
+.image {
+    max-height: 10px;
+}
 
 
 /* background pattern http://www.heropatterns.com/ */
